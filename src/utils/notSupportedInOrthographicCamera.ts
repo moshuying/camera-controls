@@ -1,4 +1,4 @@
-import * as _THREE from 'three';
+import type * as _THREE from 'three';
 import { isOrthographicCamera } from '../types';
 
 export function notSupportedInOrthographicCamera(
